@@ -65,3 +65,40 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
+Features
+
+    Real-time fraud detection
+
+    Autoencoder-based anomaly detection (unsupervised)
+
+    Streamlit UI for ease of use
+
+    Fraud probability and error threshold graphs
+
+📄 Patent Info
+
+    📌 Patent Title: AI-Based UPI Fraud Detection using Autoencoders
+
+    📝 Status: Published
+
+    🧠 Filed under: Research & Innovation Cell, [NRI INSTITUTE OF TECHNOLOGY]
+
+    🔗 Patent Reference/Number: [Application No.202541058275 A ]
+
+Contact:
+
+Feel free to reach out for collaboration or queries:
+
+    Name: Marella Susmitha
+
+    Email: [susmithamarella04@example.com]
+
+    LinkedIn: [https://www.linkedin.com/in/marella-susmitha-9b1a11265/]
+
+    GitHub: [github.com/marellasusmitha]
+
+📌 License
+
+This project is protected under applicable patent rights. Educational use is permitted; for commercial use, please request permission.
+
